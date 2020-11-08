@@ -1,0 +1,10 @@
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\bin\Debug\KupciFakture(disconnected).exe.config
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\bin\Debug\KupciFakture(disconnected).exe
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\bin\Debug\KupciFakture(disconnected).pdb
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\Fakturisanje.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\KupciFakture_disconnected_.Form1.resources
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\KupciFakture_disconnected_.Properties.Resources.resources
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\Fakturisanje.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\Fakturisanje.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\KupciFakture(disconnected).exe
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\Fakturisanje(ADO.NET_DisconnectedClasses)\Fakturisanje\obj\Debug\KupciFakture(disconnected).pdb

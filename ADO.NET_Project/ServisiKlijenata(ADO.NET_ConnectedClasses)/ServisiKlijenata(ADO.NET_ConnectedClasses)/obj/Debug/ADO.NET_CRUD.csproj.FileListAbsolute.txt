@@ -1,0 +1,45 @@
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe.config
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.FormMain.resources
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe.config
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.FormMain.resources
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe.config
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.FormMain.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\2_domaci\Sol_ADO.NET_CRUD\ADO.NET_CRUD\obj\Debug\ADO.NET_CRUD.pdb

@@ -1,0 +1,15 @@
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\ADO.NET_CRUD.exe.config
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\ADO.NET_CRUD.pdb
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\EntityFramework.dll
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\EntityFramework.xml
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ServisiKlijenata.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ADO.NET_CRUD.FormMain.resources
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ADO.NET_CRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ServisiKlijenata.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ServisiKlijenata.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ServisiKlijenata.csproj.CopyComplete
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ADO.NET_CRUD.exe
+C:\Users\Johny\Desktop\GitRepositories\WinForms_Projects\ADO.NET_Project\ServisiKlijenata(ADO.NET_ConnectedClasses)\ServisiKlijenata(ADO.NET_ConnectedClasses)\obj\Debug\ADO.NET_CRUD.pdb
