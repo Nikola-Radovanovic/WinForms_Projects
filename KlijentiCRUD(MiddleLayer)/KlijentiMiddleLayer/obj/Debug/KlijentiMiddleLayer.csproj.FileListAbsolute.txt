@@ -1,0 +1,18 @@
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiMiddleLayer\obj\Debug\KlijentiMiddleLayer.pdb

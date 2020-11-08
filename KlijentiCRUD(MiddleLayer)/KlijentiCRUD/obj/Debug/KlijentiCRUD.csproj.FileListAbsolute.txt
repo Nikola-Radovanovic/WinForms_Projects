@@ -1,0 +1,45 @@
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe.config
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormInsert.resources
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormMain.resources
+C:\Users\Johny\Desktop\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormUpdate.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe.config
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiCRUD.pdb
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormInsert.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormMain.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormUpdate.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\RAF materijali\III_Godina\II_semestar\MS_tehnologije_za_pristup_podacima\3_DomaciZadaci\1_domaci\Sol_KlijentiCRUD\KlijentiCRUD\obj\Debug\KlijentiCRUD.pdb
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe.config
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\bin\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\bin\Debug\KlijentiCRUD.pdb
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.dll
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\bin\Debug\KlijentiMiddleLayer.pdb
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormInsert.resources
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormMain.resources
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.FormUpdate.resources
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.Properties.Resources.resources
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.GenerateResource.cache
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.csproj.CopyComplete
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.exe
+C:\Users\Johny\Desktop\Git_UploadProjects\KlijentiCRUD(MiddleLayer)\KlijentiCRUD\obj\Debug\KlijentiCRUD.pdb

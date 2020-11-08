@@ -1,0 +1,4 @@
+- Aplikacija koja implementira osnovne CRUD operacije nad klijentima
+- Jednostavan korisnički interfejs
+- Komunikacija sa bazom preko srednjeg sloja (.dll fajl)
+- Stored procedure
