@@ -34,7 +34,7 @@ Specifikacije:
 __________________________ 
 
 Koristi se baza podataka TSQL i Windows Forms aplikacija. 
-Kreirati novu tabelu u TSQL bazi podataka i napuniti je podacima pomoću sledećeg TSQL skripta:
+Kreirati novu tabelu u TSQL bazi podataka i napuniti je podacima pomoću 'KlijentiCRUD.sql' TSQL skripta
  
 Za tabelu dbo.Klijenti kreirati Windows aplikaciju sa odgovarajućim korisničkim interfejsom koji omogućava CRUD (Create Read Update Delete) operacije. 
 String konekcije koji koristi SqlConnection klasa čuvati u App.config fajlu. Početna forma aplikacije treba da obezbedi pregled podataka u kontroli dataGridView.
